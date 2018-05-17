@@ -5,7 +5,7 @@ class Person
                 :wrist_size, :glove_size, :pant_length, :pant_width
 
   def initialize(hello)
-    hello.each do {|key, value| }
+    hello.each {|key, value| }
   end
 
 
